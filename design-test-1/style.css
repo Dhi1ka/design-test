@@ -1,0 +1,141 @@
+/* background */
+body {
+    position: absolute;
+    width: 960px;
+    height: 540px;
+    left: auto;
+    top: auto;
+}
+/* logo */
+#logo {
+    position: absolute;
+    width: 170px;
+    height: 53px;
+    left: 53px;
+    top: 26px;
+}
+/* modal */
+#right {
+    position: absolute;
+    width: 577px;
+    height: 669px;
+    left: 781px;
+    top: -10px;
+
+    background: #FFFFFF;
+}
+/* arrow */
+#arrow {
+    position: absolute;
+    width: 20px;
+    height: 0px;
+    left: 841px;
+    top: 45px;
+
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    transform: rotate(180deg);
+}
+/* label kembali ke beranda */
+#top {
+    position: absolute;
+    width: 210px;
+    height: 44px;
+    left: 900px;
+    top: 36px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+
+    color: #000000;
+}
+/* label akun masuk */
+#label {
+    position: absolute;
+    width: 318px;
+    height: 71px;
+    left: 908px;
+    top: 188px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 45px;
+    text-align: center;
+
+    color: #2AB138;
+}
+/* email */
+#email {
+    position: absolute;
+    width: 387px;
+    height: 36px;
+    left: 880px;
+    top: 330px;
+
+    background: #E0E0E0;
+}
+/* password */
+#password {
+    position: absolute;
+    width: 387px;
+    height: 36px;
+    left: 880px;
+    top: 397px;
+
+    background: #E0E0E0;
+}
+/* label buat akun baru */
+#akun {
+    position: absolute;
+    width: 272px;
+    height: 35px;
+    left: 880px;
+    top: 453px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 19px;
+
+    color: #4D4D4D;
+}
+/* label lupa password */
+#forget {
+    position: absolute;
+    width: 138px;
+    height: 35px;
+    left: 1185px;
+    top: 452px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 19px;
+
+    color: #4D4D4D;
+/* login button */
+}
+#login {
+    position: absolute;
+    width: 176px;
+    height: 49px;
+    left: 980px;
+    top: 541px;
+
+    background: #FFDA1B;
+    border-radius: 15px;
+
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
